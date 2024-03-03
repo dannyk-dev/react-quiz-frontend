@@ -36,7 +36,6 @@ export const SignPage = () => {
         <div className="form-header">
           <h2>Register an Account</h2>
         </div>
-
         <div className="form-control">
           <label htmlFor="username">Enter your username</label>
           <input
@@ -46,7 +45,6 @@ export const SignPage = () => {
             onChange={handleChange}
           />
         </div>
-
         <div className="form-control">
           <label htmlFor="email">Enter your email</label>
           <input
@@ -56,7 +54,6 @@ export const SignPage = () => {
             onChange={handleChange}
           />
         </div>
-
         <div className="form-control">
           <label htmlFor="email">Enter your password</label>
           <input

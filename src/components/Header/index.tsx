@@ -1,14 +1,14 @@
 // import React from "react";
 // import { IUser } from "../../types/User.types";
 
-import { LinkButton } from "../../Buttons";
+import { LinkButton } from "../shared/Buttons";
 import {
   NavLink,
   NavLinks,
   NavLogo,
   NavWrapper,
   Navbar,
-} from "../../Layout/Navbar";
+} from "../Layout/Navbar";
 
 // interface IHeaderProps {
 //   user?: IUser | null;

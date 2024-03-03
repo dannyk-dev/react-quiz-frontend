@@ -1,7 +1,7 @@
 // import React from 'react'
 
 import { FooterContainer } from "./styles";
-import { Container } from "../../Layout";
+import { Container } from "../Layout";
 
 export const Footer = () => {
   return (
